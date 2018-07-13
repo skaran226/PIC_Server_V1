@@ -1,0 +1,39 @@
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.exe
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.pdb
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csproj.GenerateResource.Cache
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.exe
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.pdb
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\bin\Debug\FPS.exe
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\bin\Debug\FPS.pdb
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.Validate.resources
+C:\Users\DELL\Desktop\PIC_Server-On-old-design--master\PIC_SERVER\FPS\obj\Debug\FPS.SetDataTime.resources
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\bin\Debug\FPS.exe
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\bin\Debug\FPS.pdb
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.SetDataTime.resources
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.Validate.resources
+C:\Users\Admin\Desktop\Old_PIC_Server_V_1-master\PIC_SERVER\FPS\obj\Debug\FPS.csproj.GenerateResource.Cache
